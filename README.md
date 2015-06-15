@@ -14,3 +14,9 @@ http://www.cs.unc.edu/~isenburg/lastools/
 But I didn't want to pay the money for it since it was a one time only thing. 
 
 Hopefully these scripts can help someone else who is trying to do the same thing. 
+
+Another tool that might be valueable is lidar2dems : 
+
+http://applied-geosolutions.github.io/lidar2dems/
+
+I may rework this to use it in the future. 
