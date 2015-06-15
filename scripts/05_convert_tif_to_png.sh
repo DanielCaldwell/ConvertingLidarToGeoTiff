@@ -1,0 +1,10 @@
+
+
+gdal_translate -of png castle_forest_1_4326_color.tif castle_forest_1_4326_color.png
+gdal_translate -of png castle_forest_2_4326_color.tif castle_forest_2_4326_color.png
+gdal_translate -of png castle_forest_3_4326_color.tif castle_forest_3_4326_color.png
+
+gdal_translate -of png castle_forest_1_4326_hillshade.tif castle_forest_1_4326_hillshade.png
+gdal_translate -of png castle_forest_2_4326_hillshade.tif castle_forest_2_4326_hillshade.png
+gdal_translate -of png castle_forest_3_4326_hillshade.tif castle_forest_3_4326_hillshade.png
+

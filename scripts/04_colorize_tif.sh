@@ -1,0 +1,8 @@
+
+gdaldem color-relief castle_forest_1_4326.tif color_relief.txt castle_forest_1_4326_color.tif 
+gdaldem color-relief castle_forest_2_4326.tif color_relief.txt castle_forest_2_4326_color.tif
+gdaldem color-relief castle_forest_3_4326.tif color_relief.txt castle_forest_3_4326_color.tif
+ 
+gdaldem hillshade castle_forest_1_4326.tif castle_forest_1_4326_hillshade.tif
+gdaldem hillshade castle_forest_2_4326.tif castle_forest_2_4326_hillshade.tif
+gdaldem hillshade castle_forest_3_4326.tif castle_forest_3_4326_hillshade.tif
