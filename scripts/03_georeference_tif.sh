@@ -6,3 +6,7 @@ gdalwarp -s_srs epsg:32633 -t_srs epsg:4326 castle_forest_1.grid.std.tif castle_
 gdalwarp -s_srs epsg:32633 -t_srs epsg:4326 castle_forest_2.grid.std.tif castle_forest_2_4326.tif
 gdalwarp -s_srs epsg:32633 -t_srs epsg:4326 castle_forest_3.grid.std.tif castle_forest_3_4326.tif
 
+gdalwarp -s_srs epsg:32633 -t_srs epsg:4326 powerline_1.grid.std.tif powerline_1_4326.tif
+
+gdalwarp -s_srs epsg:32633 -t_srs epsg:4326 valley_1.grid.std.tif valley_1_4326.tif
+gdalwarp -s_srs epsg:32633 -t_srs epsg:4326 valley_2.grid.std.tif valley_2_4326.tif
